@@ -52,3 +52,4 @@ print(tuple(tupla_5))
 otra_tupla=tuple("mango")
 print(type(otra_tupla))
 print(otra_tupla)
+
